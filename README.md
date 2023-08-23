@@ -1,2 +1,5 @@
 # Visualisation
-Visualisation is a crucial step in data analysis: its allows to tell a story to a client an be sure to answer his questions effectilvely! So the challenge here is to group all valuable knowlegde to improve my visualisation skills.
+Visualisation is a **crucial step** in data analysis:
+It allows to prodive element of answer to the client by telling him a step-by-step story! 
+
+So the challenge of theis repo is to group all **valuable knowlegde** to improve my visualisation skills.
