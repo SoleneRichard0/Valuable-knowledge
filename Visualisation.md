@@ -13,3 +13,7 @@
 
 *sources :* 
 - https://www.thoughtspot.com/data-trends/data-visualization/best-practices-and-tips-for-effective-data-visualization
+
+
+## Open your mind/ funny viz  : 
+- **Dwight Schrute resume**: https://public.tableau.com/app/profile/lisa.trescott/viz/DwightsResume/DwightsResume
